@@ -286,10 +286,14 @@ Open In Setting.json!
 
 ## Special Thanks To
 
-* [FARHAN](https://github.com/Fxc7)
-* [Baileys](https://github.com/baileys)
-* [MhankBarBar](https://github.com/MhankBarBar)
-* [NazwaS](https://github.com/NazwaS)
-* [Affisjunianto](https://github.com/affisjunianto)
+* <a href="https://github.com/Fxc7"><img alt="GitHub" src="https://img.shields.io/badge/Farhan%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"></a>
+* <a href="https://github.com/NazwaS"><img alt="GitHub" src="https://img.shields.io/badge/NazwaS%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"></a>
+* <a href="https://github.com/FdhlGraphy"><img alt="GitHub" src="https://img.shields.io/badge/Fadhil%20Graphy%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"></a>
+* <a href="https://github.com/MhankBarBar"><img alt="GitHub" src="https://img.shields.io/badge/Mahankbarbar%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"></a>
+* <a href="https://github.com/affisjunianto"><img alt="GitHub" src="https://img.shields.io/badge/affisjunianto%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"></a>
+
+
+
+
 
 ---
