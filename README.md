@@ -29,9 +29,9 @@
 ## SOSMED
 
 <p align="center">
-* <a href="https://instagram.com/ahmd.fdhl_"><img alt="Instagram" src="https://img.shields.io/badge/Instagram%202-AB34B6?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-* [YOUTUBE](https://youtube.com/c/FadhilGraphy)
-* [WHATSAPP](https://wa.me/6288221608614)
+* <a href="https://instagram.com/ahmd.fdhl_"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-AB34B6?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+* <a href="https://youtube.com/c/FadhilGraphy"><img alt="YouTube" src="https://img.shields.io/badge/YouTube-FE0000?style=for-the-badge&logo=youtube&logoColor=white"/></a>
+* <a href="https://wa.me/6288221608614"><img alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
 </p>
 
 
