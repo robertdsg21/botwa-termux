@@ -28,9 +28,11 @@
 
 ## SOSMED
 
-* [INSTAGRAM](https://instagram.com/ahmd.fdhl_)
+<p align="center">
+* <a href="https://instagram.com/ahmd.fdhl_"><img alt="Instagram" src="https://img.shields.io/badge/Instagram%202-AB34B6?style=for-the-badge&logo=instagram&logoColor=white"/></a>
 * [YOUTUBE](https://youtube.com/c/FadhilGraphy)
 * [WHATSAPP](https://wa.me/6288221608614)
+</p>
 
 
 ## GROUP
