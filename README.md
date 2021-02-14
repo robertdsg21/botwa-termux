@@ -10,7 +10,7 @@
 <p align="center">
 <a href="https://github.com/FdhlGraphy/botwa-termux/followers"><img title="Followers" src="https://img.shields.io/github/followers/FdhlGraphy?style=flat-square"></a>
 <a href="https://github.com/FdhlGraphy/botwa-termux/network/members"><img title="Forks" src="https://img.shields.io/github/forks/FdhlGraphy/botwa-termux?style=flat-square"></a>
-<a href="https://github.com/FdhlGraphy/botwa-termux/watchers"><img title="watchers" src="https://img.shields.io/github/watchers/FadhilGraphy/botwatermux?style=flat-square"></a>
+<a href="https://github.com/FdhlGraphy/botwa-termux/watchers"><img title="watchers" src="https://img.shields.io/github/watchers/FdhlGraphy/botwa-termux?style=flat-square"></a>
 
 </p>
 
