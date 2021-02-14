@@ -39,6 +39,7 @@
 
 * <a href="https://chat.whatsapp.com/JANODO6ODi65fFQ22V4ac8"><img alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp%20Group%201-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
 * <a href="https://chat.whatsapp.com/I4AqcaILXHj3jrJ3MVURkc"><img alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp%20Group%202-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
+* <a href="https://t.me/joinchat/FT_-G7e136-CWXTM"><img alt="Telegram" src="https://img.shields.io/badge/Telegram%20Group-30ACE0?style=for-the-badge&logo=telegram&logoColor=white"/></a>
 
 ---
 
