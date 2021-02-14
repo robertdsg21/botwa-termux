@@ -1,4 +1,8 @@
 ### I'm FADHIL GRAPHY Gift Me Stars 🌟 <br><img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="20px">
+<p align="center">
+<a href="https://github.com/FdhlGraphy"><img src="https://raw.githubusercontent.com/FdhlGraphy/FdhlGraphy/main/banner.jpg"></a>
+</p>
+<br>
 
 
 <p align="center">
