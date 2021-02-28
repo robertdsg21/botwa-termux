@@ -9,5 +9,5 @@ sisa limit anda : ${limitCounts}
 
 NOTE : Kalo Habis Kalian Bisa Gunakan Lagi Besok`
 }
-exports.limitend = limitend
+exports.limitend = Ilimitend
 exports.limitcount = limitcount
